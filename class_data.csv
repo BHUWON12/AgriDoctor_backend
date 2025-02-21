@@ -1,0 +1,40 @@
+Class,Disease_Name,Percentage_Occurrence,Cure,Reason,Symptoms,Prevention
+Apple_scab,Apple Scab,15%,Fungicides,Moist conditions,Dark scabby lesions on leaves and fruit,Prune trees for airflow
+Apple_black_rot,Apple Black Rot,10%,Fungicides,Warm humid weather,Circular brown spots with black centers on fruit,Remove infected branches
+Apple_cedar_apple_rust,Cedar Apple Rust,8%,Fungicides,Proximity to junipers,Orange spore masses on leaves,Remove nearby juniper trees
+Apple_healthy,Healthy,0%,None,None,Green healthy leaves,Maintain proper care
+Background_without_leaves,No Disease,0%,None,None,No plant leaves present,Not applicable
+Blueberry_healthy,Healthy,0%,None,None,Green healthy leaves,Proper watering and fertilization
+Cherry_powdery_mildew,Powdery Mildew,12%,Fungicides,Warm dry weather,White powdery coating on leaves,Avoid overhead watering
+Cherry_healthy,Healthy,0%,None,None,Green healthy leaves,Good tree maintenance
+Corn_gray_leaf_spot,Gray Leaf Spot,14%,Fungicides,Warm humid conditions,Gray rectangular lesions on leaves,Use resistant hybrids
+Corn_common_rust,Common Rust,18%,Fungicides,Moist conditions,Brownish-red pustules on leaves,Plant resistant varieties
+Corn_northern_leaf_blight,Northern Leaf Blight,16%,Fungicides,Warm wet conditions,Cigar-shaped gray lesions on leaves,Rotate crops
+Corn_healthy,Healthy,0%,None,None,Green healthy leaves,Proper irrigation
+Grape_black_rot,Black Rot,20%,Fungicides,Warm humid weather,Brown sunken spots on grapes,Remove mummified berries
+Grape_black_measles,Black Measles,13%,Fungicides,Fungal infection,Brown and yellow streaking in leaves,Improve soil drainage
+Grape_leaf_blight,Leaf Blight,11%,Fungicides,Fungal infection,Brown blotches on leaves,Prune vines for better airflow
+Grape_healthy,Healthy,0%,None,None,Green healthy leaves,Maintain good vineyard practices
+Orange_haunglongbing,Citrus Greening,30%,No cure,Bacterial infection,Yellowing leaves and deformed fruit,Control psyllid insects
+Peach_bacterial_spot,Bacterial Spot,12%,Copper sprays,Bacterial infection,Small water-soaked spots on leaves,Remove infected leaves
+Peach_healthy,Healthy,0%,None,None,Green healthy leaves,Regular maintenance
+Pepper_bacterial_spot,Bacterial Spot,14%,Copper sprays,Bacterial infection,Dark water-soaked spots on leaves and fruit,Plant resistant varieties
+Pepper_healthy,Healthy,0%,None,None,Green healthy leaves,Good soil management
+Potato_early_blight,Early Blight,17%,Fungicides,Warm wet weather,Brown concentric ring spots on leaves,Use disease-free seeds
+Potato_healthy,Healthy,0%,None,None,Green healthy leaves,Practice crop rotation
+Potato_late_blight,Late Blight,22%,Fungicides,Wet and cool conditions,Dark lesions on leaves and stems,Improve air circulation
+Raspberry_healthy,Healthy,0%,None,None,Green healthy leaves,Proper fertilization
+Soybean_healthy,Healthy,0%,None,None,Green healthy leaves,Monitor for pests
+Squash_powdery_mildew,Powdery Mildew,18%,Fungicides,Warm dry conditions,White powdery growth on leaves,Provide adequate spacing
+Strawberry_healthy,Healthy,0%,None,None,Green healthy leaves,Control pests
+Strawberry_leaf_scorch,Leaf Scorch,15%,Fungicides,Bacterial infection,Brown dried edges on leaves,Increase plant spacing
+Tomato_bacterial_spot,Bacterial Spot,20%,Copper sprays,Bacterial infection,Dark water-soaked spots on leaves and fruit,Sanitize tools
+Tomato_early_blight,Early Blight,25%,Fungicides,Warm wet weather,Dark concentric ring spots on leaves,Use resistant seeds
+Tomato_healthy,Healthy,0%,None,None,Green healthy leaves,Provide proper nutrients
+Tomato_late_blight,Late Blight,28%,Fungicides,Wet and cool conditions,Dark lesions on leaves and stems,Improve drainage
+Tomato_leaf_mold,Leaf Mold,12%,Fungicides,High humidity,Yellow spots on upper leaves,Improve ventilation
+Tomato_septoria_leaf_spot,Septoria Leaf Spot,14%,Fungicides,Warm humid conditions,Small brown spots with dark edges on leaves,Rotate crops
+Tomato_spider_mites_two-spotted_spider_mite,Spider Mites,15%,Miticides,Dry conditions,Tiny yellow spots and webbing on leaves,Mist plants frequently
+Tomato_target_spot,Target Spot,13%,Fungicides,Warm wet weather,Brown circular spots with yellow halos on leaves,Use resistant varieties
+Tomato_mosaic_virus,Mosaic Virus,16%,No cure,Viral infection,Yellow mottling on leaves,Control aphids
+Tomato_yellow_leaf_curl_virus,Yellow Leaf Curl Virus,19%,No cure,Viral infection,Upward curling and yellowing of leaves,Control whiteflies
